@@ -16,7 +16,7 @@
 [OpenWeatherMap API](https://openweathermap.org/)
 <br><br>
 
-# 프로젝트 작동 순서 및 기능
+# 프로젝트 설명
 - 매일 새벽 1시 날씨 데이터를 외부 API에서 받아와 DB에 저장
 - 날씨 데이터를 활용하여 일기를 작성/조회/수정/삭제
 <br>
