@@ -12,7 +12,7 @@ import java.util.Optional;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
-@Transactional
+@Transactional  // 테스트 커밋 X (롤백)
 class JpaMemoRepositoryTest {
     @Autowired
     JpaMemoRepository jpaMemoRepository;
